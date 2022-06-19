@@ -1,0 +1,33 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: gainsboro;
+}
+.header_div{
+    background: lavender;
+    color: rgba(255, 240, 253, 0.514);
+}
+.header_div p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(100, 83, 254, 0.643);
+    letter-spacing: 20px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 50px;
+    width: 225px;
+    font-weight: lighter;
+    letter-spacing: 40px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:olive;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: indigo;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 9px coral;
+}
